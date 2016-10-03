@@ -1,0 +1,13 @@
+{
+  "ecmaVersion": 6,
+  "libs": [
+    "browser"
+  ],
+  "plugins": {
+    "phaser": {},
+    "doc_comment": {
+      "fullDocs": true,
+      "strong": false
+    }
+  }
+}

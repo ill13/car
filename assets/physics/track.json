@@ -1,0 +1,9 @@
+{
+    "trackmask":
+	[
+		{
+			"mass": 0,"filter": { "categoryBits": 1, "maskBits": 65535 },
+			"shape": [ 24,144, 0,144, 0,0, 144,0, 144,24, 88,40, 40,88 ]
+		}
+    ]
+}
